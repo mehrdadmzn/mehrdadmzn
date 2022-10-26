@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mehrdadmzn
-- 👀 I’m interested in health data science, DataOps, privacy protection, cloud computing, and Linux 
+- 👀 I’m interested in health data science, DataOps, privacy and cybersecurity, cloud computing, and Linux 
 - 🌱 I’m currently learning TDD in data sciene
 - 💞️ I’m looking to collaborate on health data science projects
 - 📫 How to reach me: mehrdad.mizani at-sign hdruk.ac.uk
